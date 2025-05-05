@@ -85,12 +85,16 @@ Material:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
+    - _Mountain_normal:
+        m_Texture: {fileID: 2800000, guid: 2cfccddb05045b14ca0639cf5b06e18d, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - _Normal1:
         m_Texture: {fileID: 2800000, guid: d10a7cb9c9050ac4ca3456dbec77cd9f, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _Normal2:
-        m_Texture: {fileID: 2800000, guid: 09643b71f5257544a840bb30bb47fa50, type: 3}
+        m_Texture: {fileID: 2800000, guid: 6f097dcb32e03ec48b87e049bf1afed9, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _OcclusionMap:
@@ -143,8 +147,8 @@ Material:
     - _Mask_brightness: -0.39
     - _Metallic: 0.24
     - _Normal_brightness: 0
-    - _Normal_darkness: -4.03
-    - _Normal_strength: 1.76
+    - _Normal_darkness: 0.82
+    - _Normal_strength: 4.67
     - _OcclusionStrength: 1
     - _Parallax: 0.005
     - _QueueControl: 0
