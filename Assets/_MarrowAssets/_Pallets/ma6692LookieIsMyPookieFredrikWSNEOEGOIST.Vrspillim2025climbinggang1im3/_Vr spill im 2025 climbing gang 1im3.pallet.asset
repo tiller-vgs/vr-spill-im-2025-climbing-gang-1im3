@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1bffa63f5a19c394b9f0ab757607a9ea, type: 3}
+  m_Name: _Vr spill im 2025 climbing gang 1im3.pallet
+  m_EditorClassIdentifier: 
+  _barcode:
+    _id: ma6692LookieIsMyPookieFredrikWSNEOEGOIST.Vrspillim2025climbinggang1im3
+  _title: Vr spill im 2025 climbing gang 1im3
+  _description: 
+  _unlockable: 0
+  _redacted: 0
+  _author: ma6692, LookieIsMyPookie, FredrikWS, NEOEGOIST
+  _version: 0.0.0
+  _sdkVersion: 1.2.0
+  _internal: 0
+  _crates:
+  - {fileID: 11400000, guid: e416e94848bb4124d876beee831a030e, type: 2}
+  _dataCards: []
+  _tags: []
+  _changeLogs: []
+  _crateTitles:
+  - Level  Mountan
+  _datacardTitles: []
+  _palletDependencies: []
