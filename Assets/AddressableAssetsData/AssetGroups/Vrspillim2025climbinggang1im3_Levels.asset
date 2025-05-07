@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Vrspillim2025climbinggang1im3_Levels
+  m_EditorClassIdentifier: 
+  m_GroupName: Vrspillim2025climbinggang1im3_Levels
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 2fba55ba503c62f4886d8a119c08c161
+  m_SerializeEntries:
+  - m_GUID: f7bfcfd8282e61a4a9852d8ad33c154c
+    m_Address: Level/Mountan
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: cd6973a289518b4469c6d7e1d97c2115, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 842ba02f5ff9fb44a857981dbb35b7eb, type: 2}
+    - {fileID: 11400000, guid: 3743681c2e266754a94ce135fe962521, type: 2}
+    - {fileID: 11400000, guid: 7efcee5340a7795459d32cc32abdbd28, type: 2}

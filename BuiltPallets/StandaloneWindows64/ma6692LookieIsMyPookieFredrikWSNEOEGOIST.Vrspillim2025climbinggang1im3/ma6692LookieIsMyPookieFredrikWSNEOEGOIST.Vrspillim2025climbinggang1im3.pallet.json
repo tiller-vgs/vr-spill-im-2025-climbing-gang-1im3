@@ -1,0 +1,46 @@
+{
+  "version": 2,
+  "root": {
+    "ref": "1",
+    "type": "pallet#0"
+  },
+  "objects": {
+    "1": {
+      "barcode": "ma6692LookieIsMyPookieFredrikWSNEOEGOIST.Vrspillim2025climbinggang1im3",
+      "title": "Vr spill im 2025 climbing gang 1im3",
+      "description": "",
+      "unlockable": false,
+      "redacted": false,
+      "author": "ma6692, LookieIsMyPookie, FredrikWS, NEOEGOIST",
+      "version": "0.0.0",
+      "sdkVersion": "1.2.0",
+      "internal": false,
+      "crates": [
+        {
+          "ref": "2",
+          "type": "crate-level#0"
+        }
+      ],
+      "dataCards": [],
+      "tags": [],
+      "changelogs": [],
+      "isa": {
+        "type": "pallet#0"
+      }
+    },
+    "2": {
+      "barcode": "ma6692LookieIsMyPookieFredrikWSNEOEGOIST.Vrspillim2025climbinggang1im3.Level.Mountan",
+      "title": "Mountan",
+      "description": "",
+      "unlockable": false,
+      "redacted": false,
+      "packedAssets": [],
+      "mainAsset": "f7bfcfd8282e61a4a9852d8ad33c154c",
+      "tags": [],
+      "multiscene": false,
+      "isa": {
+        "type": "crate-level#0"
+      }
+    }
+  }
+}

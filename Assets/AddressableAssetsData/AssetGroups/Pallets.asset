@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Pallets
+  m_EditorClassIdentifier: 
+  m_GroupName: Pallets
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 3492af47047d96b44a6e55ed9f179307
+  m_SerializeEntries:
+  - m_GUID: 53f4be1b1da87ad4f81a37f81313dd9d
+    m_Address: ma6692LookieIsMyPookieFredrikWSNEOEGOIST.Vrspillim2025climbinggang1im3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: cd6973a289518b4469c6d7e1d97c2115, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: f38124d6a8a6b2a4bb3341a9dc707688, type: 2}
