@@ -1323,6 +1323,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 1717954561962503725, guid: f6336ac4ac8b4d34bc5072418cdc62a0, type: 3}
       insertIndex: -1
       addedObject: {fileID: 665276189}
+    - targetCorrespondingSourceObject: {fileID: 1717954561962503725, guid: f6336ac4ac8b4d34bc5072418cdc62a0, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 665276196}
   m_SourcePrefab: {fileID: 100100000, guid: f6336ac4ac8b4d34bc5072418cdc62a0, type: 3}
 --- !u!1 &460599839
 GameObject:
@@ -1706,6 +1709,25 @@ CapsuleCollider:
   m_Height: 1.36144
   m_Direction: 1
   m_Center: {x: 0, y: 0.76072, z: 0}
+--- !u!143 &665276193 stripped
+CharacterController:
+  m_CorrespondingSourceObject: {fileID: 6232745470614056090, guid: f6336ac4ac8b4d34bc5072418cdc62a0, type: 3}
+  m_PrefabInstance: {fileID: 441087506}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &665276196
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 665276181}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: be6247a0ee7b14a4899a61dff66b6806, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  characterController: {fileID: 665276193}
+  capsuleCollider: {fileID: 665276189}
 --- !u!1 &729828529
 GameObject:
   m_ObjectHideFlags: 0
@@ -2316,7 +2338,7 @@ MeshCollider:
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 5
-  m_Convex: 0
+  m_Convex: 1
   m_CookingOptions: -1
   m_Mesh: {fileID: 4781277628412113339, guid: f992934629a5e8f4698a39a31e2603d5, type: 3}
 --- !u!1 &1148595781
@@ -4786,7 +4808,7 @@ GameObject:
   - component: {fileID: 1711813854632610466}
   - component: {fileID: 1146787369}
   m_Layer: 0
-  m_Name: Sphere
+  m_Name: Sphere (13)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
