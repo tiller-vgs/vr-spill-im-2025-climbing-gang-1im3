@@ -98,7 +98,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   spawnableCrateReference:
     _barcode:
-      _id: c1534c5a-571f-43dc-8bc6-8e9553686f74
+      _id: c1534c5a-87ce-436d-b00c-ef9547726176
   crateQuery:
     _barcode:
       _id: null.empty.barcode
